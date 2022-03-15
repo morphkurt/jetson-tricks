@@ -17,6 +17,7 @@ After downloading the file look at the sdkml3_jetpack_461.json. Which can be use
 ```
 # install the cuda repo
 dpkg -i cuda-repo-l4t-10-2-local_10.2.460-1_arm64.deb
+apt update
 apt install cuda-toolkit-10-2
 ```
 
